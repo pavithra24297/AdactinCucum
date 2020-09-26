@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38919" started-at="2020-09-25T17:27:40 IST" finished-at="2020-09-25T17:28:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38919" started-at="2020-09-25T17:27:40 IST" finished-at="2020-09-25T17:28:19 IST">
+      <class name="com.lexicon.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.lexicon.testcases.LoginTest@76f2b07d]" name="setUp" is-config="true" duration-ms="38101" started-at="2020-09-25T17:27:40 IST" finished-at="2020-09-25T17:28:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.lexicon.testcases.LoginTest@76f2b07d]" name="doLogin" duration-ms="517" started-at="2020-09-25T17:28:18 IST" finished-at="2020-09-25T17:28:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDownEnviornment()[pri:0, instance:com.lexicon.testcases.LoginTest@76f2b07d]" name="tearDownEnviornment" is-config="true" duration-ms="229" started-at="2020-09-25T17:28:19 IST" finished-at="2020-09-25T17:28:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEnviornment -->
+      </class> <!-- com.lexicon.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
